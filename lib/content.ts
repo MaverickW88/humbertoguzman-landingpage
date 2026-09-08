@@ -156,10 +156,14 @@ export const projects: Project[] = [
   {
     title: "Zentra",
     label: "MBA Product Strategy Project",
+    status: "Live MVP",
     description:
       "A B2B product concept developed as an MBA graduation project, covering user research, MVP definition, prioritization, UX iteration, business-model exploration, and a navigable prototype.",
     details: ["Secondary evidence of product thinking and end-to-end product judgment."],
-    actions: [{ label: "View landing page", href: "https://zentra-landing-page-hazel.vercel.app" }],
+    actions: [
+      { label: "View landing page", href: "https://zentra-landing-page-hazel.vercel.app" },
+      { label: "View live MVP", href: "https://zentra-mvp.vercel.app/dashboard" },
+    ],
   },
   {
     title: "MBA AI Copilot",
