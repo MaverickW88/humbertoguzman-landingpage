@@ -1,32 +1,99 @@
-%PDF-1.4
-1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
-endobj
-2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
-endobj
-3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
-endobj
-4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
-endobj
-5 0 obj
-<< /Length 118 >>
-stream
-BT /F1 18 Tf 72 720 Td (Humberto Guzman - Master CV) Tj 0 -28 Td /F1 12 Tf (Placeholder. Replace with the approved Master CV PDF.) Tj ET
-endstream
-endobj
-xref
-0 6
-0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000241 00000 n 
-0000000312 00000 n 
-trailer
-<< /Size 6 /Root 1 0 R >>
-startxref
-480
-%%EOF
+
+
+HUMBERTO GUZMÁN 
+Technical Program Manager | AI Products and Digital Transformation 
+Mexico City, Mexico | Open to Remote Opportunities 
+MX +52 55 3017 5212 | ES +34 697 71 68 91 | humb3rt066@gmail.com 
+linkedin.com/in/humbertoguzmangarduno | github.com/MaverickW88 
+PROFESSIONAL SUMMARY 
+Technical Program Manager with 5+ years of experience solving complex problems across software, 
+engineering, and global product delivery. Known for stepping into ambiguous, cross-functional issues, bringing 
+the right specialists together, and driving them to closure before they escalate into program delays. MBA 
+graduate with hands-on experience defining, building, and deploying AI-enabled products, combining systems 
+thinking, product judgment, and operational execution. 
+CORE CAPABILITIES 
+Technical Program Management | AI Product Strategy | Product Roadmaps and Prioritization | Cross-
+Functional Execution | Operational Readiness | Stakeholder Management | Process and Workflow Redesign | 
+Data-Informed Decision-Making | Metrics and KPIs | Risk and Dependency Management | Change 
+Management and Adoption | Continuous Improvement 
+PROFESSIONAL EXPERIENCE 
+Technical Program Manager 
+Ford Motor Company 
+February 2024 - Present | Mexico City, Mexico 
+• Coordinated multidisciplinary teams across engineering, manufacturing, plant operations, Supplier Quality, 
+suppliers, and technical specialists without direct authority to drive complex global product programs to 
+operational readiness. 
+• Resolved a high-risk systems-integration issue affecting approximately 15 preproduction units, clearing the 
+backlog overnight versus an estimated two-to-three-week recovery and establishing permanent supplier controls. 
+• Prevented a potential two-to-three-week prototype build delay by tracing a fragmented international supply 
+network, locating compatible battery-system components in Michigan, and coordinating same-day recovery. 
+• Closed 100% of assigned launch issues in 2025 (8/8) within required milestones and coordinated early resolution 
+of two additional risks before they became formal program issues. 
+• Drove approximately 80% of assigned issues to closure ahead of expected timelines through early risk 
+identification, structured root-cause analysis, and active removal of cross-functional impediments. 
+• Designed and drove adoption of a SharePoint and Planner operating system for approximately 10 program 
+managers, centralizing documentation, milestones, ownership, and KPIs while reducing fragmented 
+communication. 
+Trial Coordinator / Sign-Off Engineer 
+Ford Motor Company 
+August 2022 - February 2024 | Mexico City, Mexico 
+• Contributed to a cross-functional process redesign that reduced vehicle trial duration by six weeks through earlier 
+planning, workflow standardization, and improved engineering-manufacturing coordination. 
+• Completed 30 First Pass validations before the corresponding release milestone while consistently meeting 
+internal readiness targets. 
+• Contributed to an estimated 20% reduction in component import lead time by redesigning coordination and 
+supply-chain workflows. 
+  
+
+Design & Release Engineer 
+Ford Motor Company 
+April 2022 - August 2022 | Mexico City, Mexico 
+• Led the design and release of Frunk and Cargo Shade components for the Ford Mustang Mach-E, coordinating 
+engineering, suppliers, manufacturing, finance, marketing, and UX requirements. 
+• Delivered assigned components on schedule and within budget while supporting design validation, risk analysis, 
+and production readiness. 
+Design Engineer - Body Systems 
+Ford Motor Company 
+September 2021 - April 2022 | Mexico City, Mexico 
+• Performed design feasibility checks, engineering drawing reviews, and component assessments while 
+coordinating requirements with multidisciplinary engineering teams. 
+Software Engineer 
+netLogistik 
+June 2021 - September 2021 | Mexico City, Mexico 
+• Supported supply-chain operations through software development, operational data analysis, and process 
+optimization. 
+SELECTED AI AND PRODUCT PROJECTS 
+Job.hunter() | Independent AI Product | 2026 | Live MVP 
+• Defined, built, and deployed an AI-assisted job-search MVP that analyzes resumes, recommends roles, sources 
+real openings, estimates candidate fit, and generates tailored application materials. 
+• Owned product scope, roadmap priorities, architecture, privacy, and AI-provider decisions; translated early user 
+feedback into reliability improvements and a focused iteration backlog. 
+MBA AI Copilot | Independent AI Product | 2026 | In Development 
+• Designed and built an AI-enabled knowledge platform using Next.js, PostgreSQL, vector search, and large 
+language models to centralize MBA materials and support contextual retrieval, synthesis, and decision-making. 
+Zentra | MBA Capstone Team Project | 2026 
+• Led MVP definition, roadmap prioritization, UX iteration, and development of a deployed B2B SaaS prototype for 
+fitness-business operations, translating customer discovery into prioritized workflows and decision support. 
+EDUCATION 
+MBA, AI and Data 
+Universidad Politécnica de Madrid 
+2025 - 2026 | Madrid, Spain 
+Artificial Intelligence Technologies Specialist - In Progress 
+Tecnológico de Monterrey 
+2026 | Mexico 
+Completed Microcertificate: AI Fundamentals, Prompt Engineering, and LLM Agents - August 2026 
+B.S. Mechatronics Engineering, Minor in Robotics 
+Tecnológico de Monterrey 
+2016 - 2020 | Mexico City, Mexico 
+TECHNOLOGY 
+AI and Product: Generative AI | Large Language Models (LLMs) | Retrieval-Augmented Generation (RAG) | 
+Prompt Engineering | AI Prototyping | Product Roadmaps | Prioritization 
+Program Delivery and Operations: Cross-Functional Delivery | Risk Management | Operational Readiness | 
+Root Cause Analysis | 8D | 5 Whys | Agile | Scrum | Lean 
+Development and Tools: Next.js | PostgreSQL | Vector Search | Python | SQL | REST APIs | GitHub | Vercel 
+| Jira | Confluence | SharePoint | Microsoft Planner 
+CERTIFICATIONS AND LANGUAGES 
+Certifications: Scrum Master Professional Certificate, 2021 | Database Design and SQL, University of 
+Michigan, 2021 
+Languages: Spanish, Native | English, Fully Bilingual | French, B2 - DELF Certified | German, B2 
+Conversational 
