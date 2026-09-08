@@ -48,13 +48,6 @@ export function Projects() {
                 </ul>
               )}
 
-              {project.needsReview && (
-                // FACTUAL REVIEW: confirm the details of this experiment before publishing.
-                <p className="mt-4 text-sm italic text-muted-foreground">
-                  Details are being finalized.
-                </p>
-              )}
-
               {project.actions.length > 0 && (
                 <div className="mt-6 flex flex-col gap-2 pt-2">
                   {project.actions.map((action) => (

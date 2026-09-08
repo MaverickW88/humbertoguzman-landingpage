@@ -12,8 +12,7 @@ export const profile = {
     "My work sits at the intersection of technology, product, transformation, and delivery. I coordinate specialists, remove impediments, and stay close to execution until the problem is genuinely closed.",
   location: "Mexico City, Mexico",
   availability: "Open to remote opportunities",
-  // FACTUAL REVIEW: replace with the email from Humberto's approved CV before publishing.
-  email: "humberto.guzman@example.com",
+  email: "humb3rt066@gmail.com",
   cvPath: "/documents/Humberto_Guzman_Master_CV_2026.pdf",
   // Placeholder canonical URL. Update to the final production domain.
   siteUrl: "https://humbertoguzman.com",
@@ -150,7 +149,7 @@ export const projects: Project[] = [
       "Defined the product scope and user journey.",
       "Made prioritization and architecture decisions.",
       "Built and deployed the MVP.",
-      "Conducting early user testing and collecting feedback, with one completed feedback session so far.",
+      "Conducting early user testing and collecting feedback.",
     ],
     actions: [{ label: "View live MVP", href: "https://job-hunter-mvp-omega.vercel.app/" }],
   },

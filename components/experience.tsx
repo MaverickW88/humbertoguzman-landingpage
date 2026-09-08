@@ -43,14 +43,14 @@ export function Experience() {
                 </ul>
 
                 {role.role === "Design & Release Engineer" && (
-                  <figure className="mt-6 overflow-hidden rounded-lg border border-border bg-muted">
-                    <div className="relative aspect-[16/10] w-full">
+                  <figure className="mt-6 max-w-xs overflow-hidden rounded-lg border border-border bg-muted">
+                    <div className="relative aspect-[4/5] w-full">
                       <Image
                         src="/images/mustang-mach-e.jpg"
                         alt="Humberto Guzmán in a safety vest beside a Ford Mustang Mach-E at a plant"
                         fill
-                        sizes="(max-width: 768px) 90vw, 40rem"
-                        className="object-cover object-top"
+                        sizes="(max-width: 768px) 90vw, 20rem"
+                        className="object-cover object-center"
                       />
                     </div>
                     <figcaption className="border-t border-border px-4 py-2.5 text-sm text-muted-foreground">
