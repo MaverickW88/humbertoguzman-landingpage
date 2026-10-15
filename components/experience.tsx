@@ -42,6 +42,39 @@ export function Experience() {
                   ))}
                 </ul>
 
+                {role.role === "Technical Program Manager" && (
+                  <div className="mt-6 space-y-4">
+                    <figure className="max-w-xl overflow-hidden rounded-lg border border-border bg-muted">
+                      <div className="relative aspect-[1280/764] w-full">
+                        <Image
+                          src="/images/ford-cuautitlan-team.jpg"
+                          alt="Group photo of the team between two Ford Mustang Mach-E vehicles at the Ford Cuautitlán plant 60th anniversary"
+                          fill
+                          sizes="(max-width: 768px) 90vw, 36rem"
+                          className="object-cover"
+                        />
+                      </div>
+                      <figcaption className="border-t border-border px-4 py-2.5 text-sm text-muted-foreground">
+                        With the team at Ford's Cuautitlán plant during its 60th anniversary.
+                      </figcaption>
+                    </figure>
+                    <figure className="max-w-xs overflow-hidden rounded-lg border border-border bg-muted">
+                      <div className="relative aspect-[3/4] w-full">
+                        <Image
+                          src="/images/ford-plant-floor.jpg"
+                          alt="Humberto Guzmán taking a selfie with colleagues in safety vests on a Ford plant floor"
+                          fill
+                          sizes="(max-width: 768px) 90vw, 20rem"
+                          className="object-cover object-top"
+                        />
+                      </div>
+                      <figcaption className="border-t border-border px-4 py-2.5 text-sm text-muted-foreground">
+                        On the plant floor with colleagues.
+                      </figcaption>
+                    </figure>
+                  </div>
+                )}
+
                 {role.role === "Design & Release Engineer" && (
                   <figure className="mt-6 max-w-xs overflow-hidden rounded-lg border border-border bg-muted">
                     <div className="relative aspect-[4/5] w-full">

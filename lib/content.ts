@@ -99,6 +99,9 @@ export const experience: Experience[] = [
       "Closed all assigned launch issues in 2025 within required milestones, 8 out of 8, and coordinated early resolution of two additional risks before they became formal program issues.",
       "Drove approximately 80 percent of assigned issues to closure ahead of expected timelines.",
       "Designed and drove adoption of a SharePoint and Microsoft Planner operating system for approximately 10 program managers.",
+      "Designed and piloted an AI workflow assistant that automates creation of internal One Pager and Two Pager change documents, cutting document preparation time by approximately 75 percent in initial testing.",
+      "Built and deployed a retrieval-augmented (RAG) knowledge assistant to support Problem Solving trainings for approximately 10 program managers, and served as an informal driver of AI-tool adoption within the team.",
+      "Designed and published a Copilot Studio agent embedded in a Ford program SharePoint site, grounded in program documentation so the team can query current program status directly instead of searching scattered sources.",
     ],
   },
   {
