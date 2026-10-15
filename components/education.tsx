@@ -13,6 +13,8 @@ export function Education() {
                 <div>
                   <h3 className="text-foreground">{item.degree}</h3>
                   <p className="mt-1 text-sm text-muted-foreground">{item.school}</p>
+                  {/* Optional note, e.g. completed microcertificate */}
+                  {item.note && <p className="mt-1 text-sm text-muted-foreground">{item.note}</p>}
                 </div>
                 <span className="shrink-0 text-sm text-muted-foreground">{item.status}</span>
               </li>
