@@ -57,10 +57,13 @@ export const tools = [
   "Generative AI",
   "Large Language Models",
   "Retrieval-Augmented Generation",
+  "Vector Search",
   "Prompt Engineering",
   "AI Prototyping",
   "Next.js",
   "TypeScript",
+  "Flutter",
+  "Firebase",
   "Python",
   "SQL",
   "PostgreSQL",
@@ -91,7 +94,9 @@ export const experience: Experience[] = [
       "Coordinate multidisciplinary specialists across engineering, manufacturing, plant operations, Supplier Quality, suppliers, and software.",
       "Resolve ambiguous technical problems without direct authority by connecting stakeholders and removing impediments.",
       "Support global product programs and operational readiness across teams.",
-      "Closed all assigned launch issues in 2025 within required milestones, 8 out of 8.",
+      "Resolved a high-risk systems-integration issue affecting approximately 15 preproduction units, clearing the backlog overnight versus an estimated two-to-three-week recovery and establishing permanent supplier controls.",
+      "Prevented a potential two-to-three-week prototype build delay by tracing a fragmented international supply network, locating compatible battery-system components in Michigan, and coordinating same-day recovery.",
+      "Closed all assigned launch issues in 2025 within required milestones, 8 out of 8, and coordinated early resolution of two additional risks before they became formal program issues.",
       "Drove approximately 80 percent of assigned issues to closure ahead of expected timelines.",
       "Designed and drove adoption of a SharePoint and Microsoft Planner operating system for approximately 10 program managers.",
     ],
@@ -170,9 +175,25 @@ export const projects: Project[] = [
     label: "Independent AI Experiment",
     status: "In Progress",
     description:
-      "An ongoing exploration of AI-assisted MBA knowledge retrieval and decision support.",
-    // FACTUAL REVIEW: confirm scope, current capabilities, and any link before publishing.
+      "An AI-enabled knowledge platform built with Next.js, PostgreSQL, vector search, and large language models to centralize MBA materials and support contextual retrieval, synthesis, and decision-making.",
+    // Scope updated from the 2026 Master CV. FACTUAL REVIEW: confirm whether to add a public link.
     needsReview: true,
+    actions: [],
+  },
+  {
+    title: "Date Planner",
+    label: "Independent Product Project",
+    status: "Working Prototype",
+    description:
+      "An Android app that helps couples collect date ideas, draw one at random, and plan them on a shared calendar. Built with Flutter and Firebase and tested on a real device with a small group of users.",
+    details: [
+      "Defined the problem: date ideas get lost across chats and notes, and couples repeat the same plans.",
+      "Scoped the MVP: a shared space joined by code, three date types, a random pick, and a shared calendar in Spanish and English.",
+      "Changed the product after the first real-device test by limiting the random pick to everyday ideas.",
+      "Ran a security and quality audit and documented the findings and decisions in a project log.",
+      "Distributed a test build and set up a feedback survey to validate retention before considering paid features.",
+    ],
+    // FACTUAL REVIEW: add a "View on GitHub" action here once the Date-Planner repository is public.
     actions: [],
   },
 ]
@@ -181,6 +202,7 @@ export type Education = {
   degree: string
   school: string
   status: string
+  note?: string
 }
 
 export const education: Education[] = [
@@ -193,6 +215,7 @@ export const education: Education[] = [
     degree: "Artificial Intelligence Technologies Specialist",
     school: "Tecnológico de Monterrey",
     status: "In Progress",
+    note: "Completed microcertificate: AI Fundamentals, Prompt Engineering, and LLM Agents (August 2026)",
   },
   {
     degree: "B.S. in Mechatronics Engineering, Minor in Robotics",
